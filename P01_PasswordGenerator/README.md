@@ -1,4 +1,4 @@
-# Proyect 01
+# Project 01
 ## Introduction
 This is a simple GUI password generator using Python. I want to learn how to use Tkinter and practice basic coding.
 
